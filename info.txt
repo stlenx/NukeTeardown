@@ -1,0 +1,4 @@
+name = Nuke
+author = Sariku
+description = Nuke tool! Huge explosion, and even bigger frame loss!!
+tags = Tool
